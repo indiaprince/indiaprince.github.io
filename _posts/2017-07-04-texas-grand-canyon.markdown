@@ -1,15 +1,50 @@
 ---
 layout: post
-title: "Texas: Grand Canyon"
+title: "세상을 바꾸는 글자, 코딩"
 img: canyon.jpg # Add image post (optional)
-date: 2017-07-04 12:54:00 +0300
+date: 2019-07-08
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Texas, Canyon]
+tag: [Book, Texas]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+자대인 134RS의 도서관에서 빌린 첫 책, 세상을 만드는 글자, 코딩. 내가 이 책을 선택한 이유는 단순했다. 
+이제 내 나이가 24살이고 학교에서 3학년까지 마쳤는데, 정작 내가 내 전공인 컴퓨터 공학에 대해서 얼마나 아냐에 대해 생각해보니, 
+이 책이 눈에 띄었다. 또한 이 책이 그나마 최신 서적이었다는 것도 한 몫했다. 
+왜냐하면, 보통 이런 제목의 책을 딱 읽으려고하니 2015,2016년도 저서인 경우가 많았다. 
+다른 분야의 책들은 몰라도 컴퓨터공학에서 최근 동향을 반영하지 못한 책을 읽는 것은 도움이 안 되다 못해 
+현재와는 달라서 틀린 지식을 받을 수 있어서였다. 
+그렇게 부푼 기대를 안고 책을 딱 펼쳐서 차례를 보니 실망을 금치 못했다.
+ 챕터1, "코딩은 아무나 한다"였다. 
+정말 어느 책에서나 볼 수 있는 진부한 제목이어서 이 책을 읽어야하나 고민을 했다. 
+또한, 챕터3, "코딩은 만물의 근원이다"를 보니 저자의 거창한 제목에 내가 어쩔 줄 몰랐다. 
+그래도 첫 책을 골랐고 이 책에서 얻을 것이 있다는 믿음을 가지고 본격적으로 읽기 시작했다. 
+사람이 컴퓨터에게 무언가글 시키기 위해서는 컴퓨터가 이해하는 글을 배울 수 있는 밖에 없다.
+컴퓨터는 0과1 밖에 이해하지 못합니다. 그렇지만 우리가 이렇게 컴퓨터와 소통하기에는 한계가 있습니다.
+그래서 사람의 언어와 컴퓨터의 언어를 이어주는 언어가 필요했습니다.
+그 언어가 바로 프로그래밍 언어입니다.
+코딩을 배운다는 말은 즉, 프로그래밍 언어를 배우는 것을 뜻 합니다.
+그런데 요즘은 코딩이라는 말보다는 프로그래밍이라는 말을 더 많이 씁니다.
+뜻은 같지만 요즘은 조금 구별해서 사용합니다.
+코딩은 정해진 알고리즘 대로 설계하는 것이고 프로그래밍은 이보다 한 차원 높은,
+더 효율적인 알고리즘을 고민하고 그 알고리즘을 어떻게 구현할지 설계하는 것을 뜻한다.
+이런 프로그램 역시 소설이나 시나리오와 같은 작품입니다. 그래서 저작권의 보호를 받습니다. 하지만 저작권은 아이디어 자체를 보호해주지는 못하기 때문에, 이를 막기 위해서는 특허권을 선택해야합니다. 그래서 동일한 아이디어도 다른 표현 방식이면 저작권 침해가 아닙니다. 예를 들면 제가 C언어를 통하여 만든 아이디어를 승헌이가 자바로 구현을 했다면, 다른 창작품인 것입니다. 또한 프로그램은 여러명이서 같이 작업을 할 수 있습니다. 요즘은 혼자서 하는 것보다 거의 대부분 여러명이서 협업을 하는 경우가 많습니다. 구글의 경우에는 20억 줄 이상의 소스코드로 이루어져 있습니다. 이를 혼자서 작업할 수 있을까요? 없습니다.
+사실 코딩을 하는데 전공과목을 이수할 필요는 없습니다. 코딩은 컴퓨터에게 지시를 하기위한 논리적인 글쓰기에 지나지 않습니다. 그래서 1960년대까지는 대부분의 프로그래머가 여성이었습니다. 최초의 프로그래머인 에이다 러브레이스, 최초의 컴퍼일러 개발자 그레이스 호퍼 등을 봐도 알 수 있습니다. 하드웨어 개발은 남성, 소프트웨어 개발은 여성이 담당하여, 지금도 보통 컴퓨터공학과는 다른 공대에 비해 여성 비율이 높습니다. 
+마이크로 소프트에 빌 게이츠는 중학생 때 처음 코딩을 하였습니다. 페이스북의 마크 저커버그도 중학생 때 코딩을 배웠습니다. 페이팔의 일론 머스크는 독학으로 코딩을 공부했습니다. 이렇게 상당 수가 대학에서 정식으로 코딩을 배우지 않았습니다. 이들은 왜 코딩을 하게되었을까요? 그 이유는 남들이 내 아이디어를 대신 구현해주지 않기 때문입니다. 코딩이 자신의 아이디어를 직접 구체화할 수 있는 수단이었기 대문입니다. 예전에는 코딩을 배우는 것이 힘들었지만 요즘에는 초보자들에게도 편리한 프로그래밍 도구들이 개발되고 있습니다. 요즘은 코드를 쓸 필요도 없는 low-code or no-code 도구들도 있습니다. 그래서 진입장벽이 매우 낮아졌지만, 개발하고 싶은 것이 무엇이냐에 따라 스펙트럼이 매우 넓기 때문에 잘 선택하여야 합니다. 
+1. 웹/앱 개발자:
+<t> 웹 사이트 하나를 구축하기 위해서는 2가지 측면에서의 개발이 필요합니다. Front End(Client Side)와 Back End(Server Side)로 구성됩니다. 프론트앤드는 우리가 눈에 보이는 웹사이트의 형태를 만드는 부분을 말합니다. 프론트앤드 개발자는 보통 HTML, CSS JavaScript,XML ,JSON, jQuery 등의 언어를 공부합니다. 그리고 백앤드는 우리가 볼 수 없는 웹사이트의 데이터들을 관리하는 부분입니다. 백앤드 개발자들은 보통 JAVA,ASP.NET,PHP,JSP,ASP 등을 공부합니다. 
+<t> 모바일 앱도 웹 사이트와 마찬가지로 눈에 보이는 디자인과 백앤드를 만들어야 합니다. 또한 안드로이드와 iOS는 서로 앱을 만드는 도구가 다르기 때문에 각각을 배워야 양쪽 모두에 앱을 배포할 수 있습니다. 안드로이드용 앱을 개발하기 위해서는 Java와 안드로이드 스튜디오라는 개발도구 및 프레임워크를 알아야하고, iOS용 앱을 개발하기 위해서는 Object-C, Swift, iOS SDK같은 개발도구 및 프레임워크를 알아야합니다. 앱은 웹에 비해 전반적인 컴퓨터의 구조나 보안 관련 문제 그리고 운영체제에 대해서 이해를 하고 있어야합니다.
+이렇게 누구나 열정과 의지만 있으면 평번한 개발자는 될 수 있습니다. 그리고 대부분의 사람들이 창업하는 것도 이 두가지 중에서 나옵니다.
+<t> 웹이나 앱에 비해 조금 더 전문 지식이 필요한 분야들도 있습니다. 예를 들면, 보안 프로그램이나 전자제품에 내장이 되는 Embedded Programming을 하기 위해서는 운영체제와 하드웨어에 대한 깊이있는 이해도가 필요합니다. 또한 하드웨어를 직접 제어하는 C언어나 Assembly Language. 그리고 빅데이터 분석을 위해서는 통계학, 수학, 데이터베이스에 관한 전문 지식이 필요하며, R 언어나 파이썬을 다룰 줄 알아야 합니다. 이 분야들은 사전에 알아야하는 지식들이 많기 대문에 위의 개발보다는 진입장벽이 높습니다. 하지만 이 분야들은 코딩을 처음하는 사람들이 창업 아이템으로 선택하는 분야가 아닙니다.
+<t> 프로그래머 중에 초기에는 코딩을 하다가 나중에는 전체적인 시스템 설계만 담당하는 사람들이 있습니다. 이들을 일컬어 소프트웨어 아키텍트라고 합니다. 이들은 최소 10년의 업계 경력이 필요하고 다수의 프로그래머들을 이끌 수 있는 리더쉽도 있어야 합니다. 개발자라기 보다는 기획자에 가가우며 MS의 회장인 빌 게이츠의 직함이 Cheif Software Arichitect 입니다. 이들은 소프트웨어의 전체에 대한 밑그림을 설계하고 성공적인 운영을 책임집니다.
+<t> 프로그래머지만 코딩을 하지 않는 사람들도 있습니다. 이들은 수학,과학, 공학 계열의 연구자들 입니다. 이들은 보통 알고리즘을 연구하여 알고리즘 개발자라고 합니다. 이들은 효율적인 알고리즘을찾아내고 이를 수학적으로 증명하는데 주력합니다.
+이 책은 독자들을 프로그래머로 만들려는 것이 아닌 코딩에 관한 지식뿐 아니라, 디지털,컴퓨터, 통신에 대한 전반적인 지식을 통하여 현대사회에 필수하고 할 수 있는 컴퓨터에 대해 이해를 해야하기 때문입니다. 우리는 매일 쓰는 컴퓨터에 대한 재대로 이해하고 있지 않습니다. 코딩을 모르면 컴퓨터를 이해할 수 없고 디지털 세계가 어떻게 작동하는지 알 수 없습니다. 수학을 배우는 것이 수학자가 되기위해서가 아니고 과학을 배우는 이유가 과학자가 되기 위해서가 아니듯이 코딩을 배우는 이유가 직업을 꿈꾸기 때문일 필요는 없습니다. 
+프로그래밍 언어는 자연히 나타난 언어가 아닙니다. 대부분의 언어는 자연적으로 태어났습니다. 우리는 언어의 기원을 거의 알지 못합니다. (물론 여기서 저자는 한국어를 까먹은 듯 합니다.) 그래서 우리가 사용하는 말들은 자연어라고 부릅니다. 이에 반해 프로그래밍 언어는 전문가가 특수 제작한 인공언어 입니다. 프로그래밍 언어는 자연어에 비해, 문법도 단순하고 예외도 거의 없으며 의도 파악이 쉽습니다, 왜냐하면 컴퓨터가 이해할 수 있도록 만들었기 때문입니다. 컴퓨터는 사람과 달리 모호하고 의도 파악이 어려운 것을 이해하지 못합니다.
+그렇다면 컴퓨터는 어떻게 프로그래밍 언어를 이해하는 것일까요? 우리가 소스코드에 int a=10; 이고 써도 컴퓨터는 영어를 알지 못하기 대문에 이해할 수 없습니다. 컴퓨터는 010010010000111 과 같은 0과 1만 읽을 수 있습니다. 따라서 중간에 어떠한 일이 벌어진다는 것을 알 수 있습니다. 
+컴퓨터야, a랑 b를 더해서 c에 넣어줘 --코딩--> int a,b,c; c=a+b;  ---읽기----> 프로그램
+컴퓨터는 0과 1만 읽고 처리하고 저장하기 때문에 이것만으로 명령해야 합니다. 초창기 프로그래머들은 실제로 0과 1만으로 코딩을 했습니다. 그것을 Punched Card에 구멍을 뚫는 것으로 해냈습니다. 구멍을 뚫으면 1이고 뚫지않으면 0으로 이해하도록 했습니다. 그리고 명령어를 CPU안에 Microcode로 프로그램해 둡니다. 그러면 이진법을 통하여 숫자를 나타내고 이진법으로 명령어를 마이크로코딩하면 연산이 가능해집니다. 이렇게 0과 1만으로 이루어진 언어를 Machine Language라고 합니다. 그렇지만 이 언어는 CPU마다 다르기 때문에, 프로그래머가 기계가 바뀔 대 마다 다시 코딩을 해야합니다. 이를 Porting이라고 합니다. 하드웨어를 직접 컨트롤하기 위해서는 이를 사용할 줄 알아야하며, 하드웨어 드라이버, 인터페이스, 펌웨어 같은 것들에 필요합니다. 하지만 기계어는 사람이 사용하는데에 힘이 들기 때문에, 인간의 언어에 좀 더 가가운 것이 필요하다고 느꼈습니다. 그래서 탄생한 것이 Assembly Language 입니다. 기계어를 사람이 영어와 매칭을 시켜놓아 사람이 이해하기 편하게 만들었습니다. 하지만 폰 노이만은 겨우 이런 것에 자원을 낭비하냐고 반대했었습니다. 당시 상황에는 이해가 되는 것이, 최초의 컴퓨터인 애니악은 무게가 30톤에 달하는 무게에 컴퓨터를 돌리면 해당 지역의 전기가 나간다는 이야기가 돌 정도였기 때문입니다. 
+하지만 이렇게 만든 어셈블리어도 사람들이 복잡하다고 생각했습니다. 왜냐하면 이는 기계어와 일대일 대응관계로 만들어졌기 때문에 겉만 인간의 언어지 실상은 기계어에 가깝게 치환되는 것에 불과하기 때문입니다. 또한 어셈블리어도 기계가 바귀면 새로 코딩을 해줘야하는 불편함을 안고 있었습니다. 그러던 중 벨 연구소의 연구원이던 켄 톰슨이 어셈블리어를 사용하여 PDP-7이라는 컴퓨터에 돌아갈 운영체제인 유닉스를 코딩하는데, PDP-11이라는 최신 기종으로 컴퓨터가 업그레이드 되는 불상사가 일어났습니다. 그래서 새 CPU에 맞춰서 다시 코딩을 해야하는 상황이 되어서 동료였던 데니스 리치가 C언어를 개발하기로 결정한 것입니다. 이 C언어는 기계마다 새로 코딩할 필요가 없습니다. 왜냐하면 번역기라는 것이 중간에 존재해서, 그 번역기가 C언어 코드를 기계어로 번역하도록 개발하였기 때문입니다. 데니스 리치는 C언어와 그것을 기계어로 바꿔줄 번역기를 같이 개발한 것입니다. 그리고 톰슨과 함깨 C언어를 이용하여 UNIX를 개발하게 됩니다.C언어 같은 언어를 고급 언어라고 합니다. 저급은 기계와 가깝고, 고급일수록 인간의 언어와 가까움을 뜻합니다.
+이 번역기에는 2가지 종류가 있습니다. 하나는 Interpreter 로 한문장 씩 순차적으로 번역하는 것이고, 다른 하나는 Compiler로 전체를 한꺼번에 번역합니다. 인터프리터는 소스코드에 오류가 있어도 일단 실행을 하다가 오류가 나는 문장에서 멈춥니다. 하지만 컴파일러는 전체 코드가 에러가 없어야 실행을 합니다.
+기계어 보다 더 낮은 언어도 있습니다. CPU안에는 마이크로코드가 프로그래밍되어 있습니다. 이 마이크로코드는 기계어를 하드웨어를 명령어로 번역해줍니다. 이러면 트랜지스터 같은 전자회로를 제어하며 이를 통하여 비트를 저장하고 읽어내고 계산합니다.
+그렇다면 고급언어보다 더 높은 수준의 언어도 있을까요? 현재 개발하고 있는 것입니다. 인공지능의 주요한 기능 중 하나가 인간의 언어를 기계가 알아듣는 것입니다. 
+전세계에는 7000개의 언어가 있다고 합니다, 하지만 세계인의 80%는 92개의 언어를 사용합니다. 순위대로면 중국어, 스페인어, 영어, 힌두어, 아랍어 입니다. 프로그래밍 언어는 적어도 700개가 넘는다고 합니다. 하지만 이 중에서 프로그래머들이 주로 사용하는 언어는 손에 곱힙니다. 통계자료에 의하면 순서대로 C, Java, Python, C++, R, C#, PHP, JavaScript 순입니다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
-
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
-
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+ 
