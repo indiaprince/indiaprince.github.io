@@ -6,12 +6,15 @@ date: 2021-02-06 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Texas, Canyon]
 ---
+>Introducing AI
 AI : 사람의 지능을 만들기 위한 시스템이나 프로그램
     Strong AI: 사람과 구분이 안 될 정도로 강한 성능의 인공지능.
     Weak AI: 특정 영역에서만 작업을 수행하는 인공지능 (현재 AI는 모두 Weak AI)
 
 ai, ml, dl 관계 그래프
 
+>Introducing ML
+Model: 학습을 통해 만들어진 프로그램
 
 학습, 훈련: 데이터의 규칙을 컴퓨터 스스로 찾아내는 것
 훈련 데이터: 모델을 학습시키기 위해 사용하는 데이터 
@@ -27,6 +30,51 @@ ai, ml, dl 관계 그래프
 >학습된 Agent는 특정 환경에서 가장 최적화된 행동을 하고 수행에 대한 보상과 현재상태를 받는 것을 반복한다.
 
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+훈련데이터와 규칙의 관계를 식으로 표현
+>ex)  1.5  *  x  + 0.1 =   y
+    weight, input, bias, target
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+weight 와 bias를 모델 파라미터라고 지칭한다.
+
+Model: 훈련데이터로 학습된 머신러닝 알고리즘
+
+Cost(Loss) Function: 모델의 input에 대해서 target 값과 실제 값이 다를 경우, 규칙을 수정하는 기준이 되는 함수
+ㄴ 단순히 예측한 값과 타깃의 차이를 정의한느 것
+ㄴ 이를 효율적으로 찾는 방법이 최적화 알고리즘.
+
+>Introducing DL
+
+Deep Learning: 머신러닝 알고리즘 중 하나인 Artificial Neural Network로 만든 것으로 복잡한 문제를 해결하기 위해, 인공신경망을 다양하게 쌓은 것.
+ㄴ 뇌의 뉴런에 영감을 받은 것으로 실제 뇌가 작동하는 방식과는 다르다.
+ㄴ 머신러닝이 처리하기 어려운 데이터를 딥러닝이 잘 처리한다.
+
+딥러닝에 잘 맞는 데이터 : 비정형 데이터로 이미지, 영상, 음성, 텍스트 등
+머신러닝에 잘 맞는 데이터: 정형 데이터로 DB, 레코드 파일, CSV, 엑셀 등
+
+
+>Introducing Linear Regression
+
+1차 함수를 통해 선형회귀 이해하기
+y   =    a  *  x  +   b
+이렇게 1차 함수는 x값에 따른 y값을 찾는 것에 집중한다. 반면, 
+y   =    7  *  x  +   4
+       slope       intercept
+11   =    a  *  1  +   b
+선형회귀는 x값과 y값이 주어졌을 때, 기울기와 절편을 찾아냅니다.
+
+
+이렇게 훈련 데이터에 따라 다양한 1차 함수들이 만들어지면서 수정된다. 이 과정의 함수들을 선형 회귀로 만든 모델.
+
+마지막 1차 함수가 최적의 선형 회귀 모델.
+
+이 모델을 통해 새로운 점에 대한 예측이 가능하다.
+
+새로운 점의 x좌표가 6이면, y좌표는 46정도일 것이라고 예측한다.
+
+결과적으로, 미리 준비한 입력(x:3,4,5), 타깃(y:25, 32,39) 을 가지고 모델(y=7x+4)를 만들고 새 입력(x:6)에 대해 값(y:46)을 예측.
+
+
+
+
+
+
