@@ -16,11 +16,11 @@ ai, ml, dl 관계 그래프
 학습, 훈련: 데이터의 규칙을 컴퓨터 스스로 찾아내는 것
 훈련 데이터: 모델을 학습시키기 위해 사용하는 데이터 
 학습 방식을 3가지로 나눌 수 있다.
-<t>Supervised Learning: 
-> 지도학습의 훈련데이터는 입력(문제)과 타겟(정답)을 가진다.
-> 
-    Unsupervised Learning:
-    Reinforcement Learning: 
+1. Supervised Learning: 
+>지도학습의 훈련데이터는 입력(문제)과 타겟(정답)을 가진다.
+ 
+2. Unsupervised Learning:
+3. Reinforcement Learning: 
 
 Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
 
