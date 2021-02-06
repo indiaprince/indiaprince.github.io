@@ -16,9 +16,9 @@ ai, ml, dl 관계 그래프
 학습, 훈련: 데이터의 규칙을 컴퓨터 스스로 찾아내는 것
 훈련 데이터: 모델을 학습시키기 위해 사용하는 데이터 
 학습 방식을 3가지로 나눌 수 있다.
-    Supervised Learning: 
-        > 지도학습의 훈련데이터는 입력(문제)과 타겟(정답)을 가진다.
-        > 
+<t>Supervised Learning: 
+> 지도학습의 훈련데이터는 입력(문제)과 타겟(정답)을 가진다.
+> 
     Unsupervised Learning:
     Reinforcement Learning: 
 
