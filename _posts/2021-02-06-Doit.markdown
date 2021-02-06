@@ -20,9 +20,12 @@ ai, ml, dl 관계 그래프
 >지도학습의 훈련데이터는 입력(문제)과 타겟(정답)을 가진다.
  
 2. Unsupervised Learning:
-3. Reinforcement Learning: 
+>비지도학습의 훈련데이터는 타겟이 없다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+3. Reinforcement Learning: 
+>머신러닝 알고리즘을 통해 Agent를 학습시킨다. 
+>학습된 Agent는 특정 환경에서 가장 최적화된 행동을 하고 수행에 대한 보상과 현재상태를 받는 것을 반복한다.
+
 
 > Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
 
